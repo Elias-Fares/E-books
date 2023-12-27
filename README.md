@@ -14,6 +14,7 @@ The book details screen: This screen displays information about a single book, i
 Flutter: A cross-platform mobile development framework.
 Google Books API: A RESTful API that provides access to information about books.
 Firebase Authentication: A service that provides secure authentication for mobile apps.
+get: Empowers efficient state management, simplifying the process of handling and updating UI components.
 
 # Features:
 
