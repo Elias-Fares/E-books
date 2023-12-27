@@ -4,7 +4,7 @@ This Flutter app allows users to search for books using the Google Books API. Th
 
 This app demonstrates my ability to interact with APIs, search through results, and use Firebase Authentication." This sentence highlights your skills in using APIs, searching through results, and using Firebase Authentication.
 
-The app is divided into two main screens:
+# The app is divided into two main screens:
 
 The search screen: This screen allows users to enter a search query and to filter the results by category and it also contains categories section you can enter to a category and see what books it contains.
 The book details screen: This screen displays information about a single book, including the title, author, description, and publication date.
@@ -15,7 +15,7 @@ Flutter: A cross-platform mobile development framework.
 Google Books API: A RESTful API that provides access to information about books.
 Firebase Authentication: A service that provides secure authentication for mobile apps.
 
-Features:
+# Features:
 
 Search for books by title, author, or category.
 View the book's cover image and description.
